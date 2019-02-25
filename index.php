@@ -6,7 +6,6 @@
 <link rel='stylesheet' href='form-style.css' type='text/css' />      
 </head>
 <body onload='document.form1.text1.focus()'>
-
 	
 <div class="mail">
 <h2>Input an Phone No.[xxxxxxxxxx] and Submit</h2>
